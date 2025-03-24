@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Phishing Awareness Training</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                text-align: center;
+                background-color: #f4f4f4;
+                padding: 60px;
+            }
+
+            .container {
+                background: #f4f4f4;
+                padding: 25px;
+                border-radius: 12px;
+                box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+                max-width: 600px;
+                margin: auto;
+            }
+
+
+            h1 {
+                color: red;
+            }
+            .tips {
+                text-align: left;
+                margin-top: 22px;
+            }
+            ul {
+                text-align: left;
+            }
+            .button {
+                display: inline-block;
+                background: #007BFF;
+                color: #f4f4f4;
+                padding: 15px 25px;
+                text-decoration: none;
+                border-radius: 6px;
+                margin-top: 20px;
+            }
+
+            .button:hover{
+                background: #0056b3;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Oops! You Clicked on a Suspicious Link</h1>
+            <p>This was a simulated phishing test.</p>
+            <p>You clicked on a simulated phishing training email. If this were a real attack, your login details and personal information could be stolen !</p>
+            
+            
+        </div>
+    </body>
+</html>
